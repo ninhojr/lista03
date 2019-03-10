@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    margin: 0;
+    background-color: darkgray
+}
+
+#cores {
+    height: 150px;
+    background-color: gray;
+}
+
+a:any-link {
+    font-size: 20pt;
+    margin: 50px;
+}
+
+a:hover {
+    font-weight: bold;
+}
+
+#green:any-link {
+    color: green;
+}
+
+#yellow:any-link {
+    color: yellow;
+}
+
+#blue:any-link {
+    color: blue;
+}
+
+#white:any-link {
+    color: white
+}

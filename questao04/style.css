@@ -1,0 +1,21 @@
+bodY {
+    margin: 0 20px;
+}
+
+p {
+    font-size: 15pt;
+    text-align: justify;
+    text-indent: 50px;
+}
+
+input {
+    outline: none;
+    background-color: gray;
+    height: 50px;
+    width: 100px;
+    border-radius: 20px;
+}
+
+#exibir {
+    display: none;
+}

@@ -1,0 +1,44 @@
+body {
+    background-color: white;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#cores {
+    background-color: black;
+    margin: 0;
+    height: 150px;
+}
+
+input {
+    outline: none;
+    border-style: none;
+    margin-top: 25px;
+    height: 100px;
+    width: 300px;
+    border-radius: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+    font-size: 15pt;
+}
+
+#vermelho {
+    background-color: red;
+}
+
+#verde {
+    background-color: green;
+}
+
+#azul {
+    background-color: blue;
+}
+
+#amarelo {
+    background-color: yellow;
+}
+
+#vermelho:active, #verde:active, #azul:active, #amarelo:active {
+    background-color: grey;
+}
